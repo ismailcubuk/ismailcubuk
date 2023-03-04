@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=434&lines=Always+learning+new+things;Front+end+dev" alt="Typing SVG" />
 </diV>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ismailcubuk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
