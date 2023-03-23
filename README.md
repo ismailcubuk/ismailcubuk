@@ -18,11 +18,11 @@
 ###
 
 <p align="center">👋Hi there! As a React Developer with 1 years of experience, I have a deep understanding of building modern web applications using this powerful technology.<br>
-🔨💻 I'm passionate about creating user interfaces that are not only aesthetically pleasing but also highly functional and intuitive.<br>
-💪🔝 My expertise lies in developing high-quality, scalable React applications that are easy to maintain and extend.<br>
-🤝 In addition to my technical skills, I'm also a collaborative team player who enjoys working with others to bring projects to life.<br>
-📚👀 I thrive in fast-paced environments where innovation and creativity are encouraged, and I'm always eager to learn and explore new technologies to stay up-to-date with the latest trends and best practices.<br>
-👨‍💻 If you're looking for a skilled React Developer who is passionate about creating exceptional user experiences, feel free to connect with me. I'm always open to new opportunities and challenges!</p>
+🔨💻<br> I'm passionate about creating user interfaces that are not only aesthetically pleasing but also highly functional and intuitive.<br>
+💪🔝<br> My expertise lies in developing high-quality, scalable React applications that are easy to maintain and extend.<br>
+🤝<br> In addition to my technical skills, I'm also a collaborative team player who enjoys working with others to bring projects to life.<br>
+📚👀<br> I thrive in fast-paced environments where innovation and creativity are encouraged, and I'm always eager to learn and explore new technologies to stay up-to-date with the latest trends and best practices.<br>
+👨‍💻<br> If you're looking for a skilled React Developer who is passionate about creating exceptional user experiences, feel free to connect with me. I'm always open to new opportunities and challenges!</p>
 
 ###
 
