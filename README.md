@@ -17,7 +17,12 @@
 
 ###
 
-<p align="center">My deparment is Healthcare Management but I like to software. I decided to continue my life as a software developer. I am always very eager to learn more in this field. I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm.</p>
+<p align="center">👋Hi there! As a React Developer with 1 years of experience, I have a deep understanding of building modern web applications using this powerful technology.
+🔨💻 I'm passionate about creating user interfaces that are not only aesthetically pleasing but also highly functional and intuitive.
+💪🔝 My expertise lies in developing high-quality, scalable React applications that are easy to maintain and extend.
+🤝 In addition to my technical skills, I'm also a collaborative team player who enjoys working with others to bring projects to life.
+📚👀 I thrive in fast-paced environments where innovation and creativity are encouraged, and I'm always eager to learn and explore new technologies to stay up-to-date with the latest trends and best practices.
+👨‍💻 If you're looking for a skilled React Developer who is passionate about creating exceptional user experiences, feel free to connect with me. I'm always open to new opportunities and challenges!</p>
 
 ###
 
