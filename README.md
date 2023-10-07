@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">👋<br>Hi there! As a React Developer with 1 years of experience, I have a deep understanding of building modern web applications using this powerful technology.<br>
+<p align="center">👋<br>Hi there! As a React Developer with 3 years of experience, I have a deep understanding of building modern web applications using this powerful technology.<br>
 🔨💻<br> I'm passionate about creating user interfaces that are not only aesthetically pleasing but also highly functional and intuitive.<br>
 💪🔝<br> My expertise lies in developing high-quality, scalable React applications that are easy to maintain and extend.<br>
 🤝<br> In addition to my technical skills, I'm also a collaborative team player who enjoys working with others to bring projects to life.<br>
