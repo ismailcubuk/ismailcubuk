@@ -1,46 +1,103 @@
-<h1 align="center">Ismail Cubuk</h1>
+<div align="center">
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&center=true&vCenter=true&width=434&lines=Always+learning+new+things;Frontend+Developer" alt="Typing SVG" />
-</diV>
+# Ismail Cubuk
+
+### Frontend Developer • React Ecosystem • API Integrations
+
+Building modern, scalable and user-focused web applications.
+
+<br/>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:mail@example.com">
+  <img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# About Me
+
+Frontend developer focused on creating modern, responsive and scalable web applications.
+
+- Building clean and interactive user interfaces with React ecosystem
+- Developing API-based systems and dynamic data flows
+- Interested in trading dashboards, real-time market tools and data visualization
+- Passionate about performance optimization and clean architecture
+
+---
+
+# Featured Projects
+
+## APIS Project
+
+Custom PHP API architecture using reusable cURL-based classes and modular request handling structure.
+
+**Tech:** `PHP` `REST API` `cURL` `OOP`
+
+---
+
+## Trading Dashboard
+
+Crypto market dashboard with TradingView integrations, liquidity tracking and real-time market analysis tools.
+
+**Tech:** `React` `JavaScript` `TradingView` `API Integration`
+
+---
+
+## React UI Projects
+
+Modern responsive interfaces focused on clean UX/UI design and scalable frontend architecture.
+
+**Tech:** `React` `TypeScript` `TailwindCSS`
+
+---
+
+# Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ismailcubuk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ismailcubuk6/?hl=tr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,sass,html,css" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
 </div>
 
+---
 
-<h2 align="center">👨🏼‍💻 About me</h2>
-
-###
-
-<p align="center">👋<br>Hi there! As a React Developer with 1 year of experience, I have a deep understanding of building modern web applications using this powerful technology.<br>
-🔨💻<br> I'm passionate about creating user interfaces that are not only aesthetically pleasing but also highly functional and intuitive.<br>
-💪🔝<br> My expertise lies in developing high-quality, scalable React applications that are easy to maintain and extend.<br>
-🤝<br> In addition to my technical skills, I'm also a collaborative team player who enjoys working with others to bring projects to life.<br>
-📚👀<br> I thrive in fast-paced environments where innovation and creativity are encouraged, and I'm always eager to learn and explore new technologies to stay up-to-date with the latest trends and best practices.<br>
-👨‍💻<br> If you're looking for a skilled React Developer who is passionate about creating exceptional user experiences, feel free to connect with me. I'm always open to new opportunities and challenges!</p>
-
-###
-
-<h2 align="center">🔧 Technologies</h2>
-
-###
+# GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismailcubuk&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcubuk&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
-</div>
+---
+
+# Current Focus
+
+```txt
+• Advanced React patterns
+• Real-time systems
+• Trading interfaces
+• API architecture
+• Performance optimization
