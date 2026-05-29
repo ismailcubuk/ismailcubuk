@@ -17,7 +17,7 @@ I enjoy turning product ideas into clean, usable interfaces with strong mobile s
 
 | Laravel Blog | WeatherApp | Card Shop |
 |---|---|---|
-| [![Laravel Blog](https://raw.githubusercontent.com/ismailcubuk/Laravel-Blog/main/public/images/screenshots/preview.png)]([https://github.com/ismailcubuk/Laravel-Blog](https://ismail.lovestoblog.com/)) | [![WeatherApp](https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/WeatherApp) | [![Card Shop](https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
+| [![Laravel Blog]([https://raw.githubusercontent.com/ismailcubuk/Laravel-Blog/main/public/images/screenshots/preview.png](https://github.com/ismailcubuk/laravel-blog/blob/main/public/images/screenshots/preview.png))]([https://github.com/ismailcubuk/Laravel-Blog](https://ismail.lovestoblog.com/)) | [![WeatherApp](https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/WeatherApp) | [![Card Shop](https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
 | [Live Demo](https://ismailcubuk.github.io/Laravel-Blog/) | [Live Demo](https://ismailcubuk.github.io/WeatherApp/) | [Live Demo](https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/) |
 
 ## What I Focus On
