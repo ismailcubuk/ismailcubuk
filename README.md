@@ -25,7 +25,7 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
 |:---:|:---:|:---:|
 | [![WeatherApp](https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/WeatherApp) | [![Laravel Blog](https://ismail.lovestoblog.com/images/screenshots/preview.png)](https://ismail.lovestoblog.com/) | [![Card Shop](https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
 | [Live Demo](https://ismailcubuk.github.io/WeatherApp/) | [Live Demo](https://ismail.lovestoblog.com/) | [Live Demo](https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/) |
-| - Responsive weather UI<br>- City search<br>- Weather data display<br>- Clean and simple layout | - Laravel blog CMS<br>- User profiles and auth<br>- Post creation workflow<br>- Comments and admin dashboard<br>- Contact messages<br>- Roles, permissions, and settings<br>- Mail workflow | - React card marketplace<br>- Champion browsing<br>- Role and price filters<br>- Buy/sell card flow<br>- Wallet balance management<br>- Champion detail modal |
+| - Responsive weather UI<br>- City search<br>- Pin city support<br>- Animated weather data display<br>- Live location weather<br>- Clean and simple layout | - Laravel blog CMS<br>- User profiles and auth<br>- Post creation workflow<br>- Comments and admin dashboard<br>- Contact messages<br>- Roles, permissions, and settings<br>- Mail workflow | - React card marketplace<br>- Champion browsing<br>- Role and price filters<br>- Buy/sell card flow<br>- Wallet balance management<br>- Champion detail modal |
 
 ## What I Focus On
 
