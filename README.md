@@ -22,11 +22,17 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
 ## Featured Projects
 
 <table>
-  <tr>
-    <th>Laravel Blog</th>
-    <th>WeatherApp</th>
-    <th>Card Shop</th>
-  </tr>
+<tr>
+  <th>
+    <a href="https://github.com/ismailcubuk/Laravel-Blog">Laravel Blog</a>
+  </th>
+  <th>
+    <a href="https://github.com/ismailcubuk/WeatherApp">WeatherApp</a>
+  </th>
+  <th>
+    <a href="https://github.com/ismailcubuk/LeagueOfLegends-Card-Market">Card Shop</a>
+  </th>
+</tr>
   <tr>
     <td>
       <a href="https://ismail.lovestoblog.com/">
