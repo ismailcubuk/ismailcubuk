@@ -58,14 +58,17 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
 
 ## Contact
 
-<p align="center">
-  <a href="https://github.com/ismailcubuk">
-    <img src="https://img.shields.io/badge/GitHub-ismailcubuk-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ismailcubuk">
-    <img src="https://img.shields.io/badge/LinkedIn-ismailcubuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:iismailcubuk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iismailcubuk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>GitHub</td>
+    <td><a href="https://github.com/ismailcubuk">github.com/ismailcubuk</a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/ismailcubuk">linkedin.com/in/ismailcubuk</a></td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:iismailcubuk@gmail.com">iismailcubuk@gmail.com</a></td>
+  </tr>
+</table>
