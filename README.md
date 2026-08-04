@@ -56,16 +56,18 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
   </tr>
 </table>
 
+## Contact
+
 <table>
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-      <strong>LinkedIn</strong>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" />
+      <strong>LinkedIn</strong><br>
       <a href="https://www.linkedin.com/in/ismailcubuk">linkedin.com/in/ismailcubuk</a>
     </td>
-    <td>
-      <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" />
-      <strong>Email</strong>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="16" height="16" />
+      <strong>Email</strong><br>
       <a href="mailto:iismailcubuk@gmail.com">iismailcubuk@gmail.com</a>
     </td>
   </tr>
