@@ -16,11 +16,69 @@
 
 ## Featured Projects
 
-| [WeatherApp](https://github.com/ismailcubuk/WeatherApp) | [Laravel Blog](https://github.com/ismailcubuk/Laravel-Blog) | [Card Shop](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
-|:---:|:---:|:---:|
-| [![WeatherApp](https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/WeatherApp) | [![Laravel Blog](https://ismail.lovestoblog.com/images/screenshots/preview.png)](https://ismail.lovestoblog.com/) | [![Card Shop](https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
-| [Live Demo](https://ismailcubuk.github.io/WeatherApp/) | [Live Demo](https://ismail.lovestoblog.com/) | [Live Demo](https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/) |
-| - Responsive weather UI<br>- City search<br>- Pin city support<br>- Animated weather data display<br>- Live location weather<br>- Clean and simple layout | - Laravel blog CMS<br>- User profiles and auth<br>- Post creation workflow<br>- Comments and admin dashboard<br>- Contact messages<br>- Roles, permissions, and settings<br>- Mail workflow | - React card marketplace<br>- Champion browsing<br>- Role and price filters<br>- Buy/sell card flow<br>- Wallet balance management<br>- Champion detail modal |
+<table>
+  <tr>
+    <th><a href="https://github.com/ismailcubuk/WeatherApp">WeatherApp</a></th>
+    <th><a href="https://github.com/ismailcubuk/Laravel-Blog">Laravel Blog</a></th>
+    <th><a href="https://github.com/ismailcubuk/LeagueOfLegends-Card-Market">Card Shop</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ismailcubuk/WeatherApp">
+        <img src="https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png" width="280" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ismail.lovestoblog.com/">
+        <img src="https://ismail.lovestoblog.com/images/screenshots/preview.png" width="280" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ismailcubuk/LeagueOfLegends-Card-Market">
+        <img src="https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png" width="280" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ismailcubuk.github.io/WeatherApp/">Live Demo</a></td>
+    <td align="center"><a href="https://ismail.lovestoblog.com/">Live Demo</a></td>
+    <td align="center"><a href="https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td align="center">React · JavaScript · CSS · API</td>
+    <td align="center">Laravel · PHP · MySQL · Blade</td>
+    <td align="center">React · JavaScript · CSS · Bootstrap</td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Responsive weather UI</li>
+        <li>City search</li>
+        <li>Pin city support</li>
+        <li>Animated weather data display</li>
+        <li>Live location weather</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Laravel blog CMS</li>
+        <li>User profiles and auth</li>
+        <li>Post creation workflow</li>
+        <li>Comments and admin dashboard</li>
+        <li>Roles, permissions, and settings</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>React card marketplace</li>
+        <li>Champion browsing</li>
+        <li>Role and price filters</li>
+        <li>Buy/sell card flow</li>
+        <li>Wallet balance management</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## What I Focus On
 
