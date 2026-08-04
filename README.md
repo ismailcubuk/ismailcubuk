@@ -1,8 +1,18 @@
 # Hi, I'm Ismail Cubuk
 
-Full-stack developer building responsive, interactive, and user-friendly web applications.
+<p>
+  Full-stack developer focused on building responsive, interactive, and user-friendly web applications.
+</p>
 
-I enjoy turning product ideas into clean interfaces with strong mobile support, clear state management, and polished UX details. I mainly work with React on the frontend, and I also build full-stack projects with Laravel, MySQL, and Blade.
+<p>
+  I turn product ideas into clean, practical interfaces with strong mobile support, clear state management, and polished UX details. My main frontend stack is React, and I also build full-stack projects with Laravel, MySQL, and Blade.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20CSS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP%20%7C%20MySQL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
 ## Tech Stack
 
