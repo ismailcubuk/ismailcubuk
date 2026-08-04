@@ -21,8 +21,8 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
 
 ## Featured Projects
 
-| WeatherApp | Laravel Blog | Card Shop |
-|---|---|---|
+| [WeatherApp](https://github.com/ismailcubuk/WeatherApp) | [Laravel Blog](https://github.com/ismailcubuk/Laravel-Blog) | [Card Shop](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
+|:---:|:---:|:---:|
 | [![WeatherApp](https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/WeatherApp) | [![Laravel Blog](https://ismail.lovestoblog.com/images/screenshots/preview.png)](https://ismail.lovestoblog.com/) | [![Card Shop](https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
 | [Live Demo](https://ismailcubuk.github.io/WeatherApp/) | [Live Demo](https://ismail.lovestoblog.com/) | [Live Demo](https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/) |
 
