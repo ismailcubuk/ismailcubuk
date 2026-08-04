@@ -9,12 +9,6 @@
 </p>
 
 <p>
-  <strong>Frontend:</strong> React · JavaScript · CSS · Bootstrap<br>
-  <strong>Backend:</strong> Laravel · PHP · MySQL · Blade<br>
-  <strong>Focus:</strong> Responsive UI · Clean state management · User-friendly product flows
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20CSS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP%20%7C%20MySQL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
