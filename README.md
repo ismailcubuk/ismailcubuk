@@ -1,6 +1,6 @@
 # Hi, I'm Ismail Cubuk
 
-Frontend-focused developer building responsive, interactive, and user-friendly web applications.
+Full-stack developer building responsive, interactive, and user-friendly web applications.
 
 I enjoy turning product ideas into clean interfaces with strong mobile support, clear state management, and polished UX details. I mainly work with React on the frontend, and I also build full-stack projects with Laravel, MySQL, and Blade.
 
@@ -29,15 +29,46 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
 
 ## What I Focus On
 
-- Building scalable React component structures
-- Creating responsive and mobile-first interfaces
-- Improving interaction quality and UI feedback
-- Managing frontend state clearly and predictably
-- Building practical full-stack features with Laravel
-- Writing clean, maintainable project structure
+<table>
+  <tr>
+    <td>⚛️ <strong>React Architecture</strong></td>
+    <td>Building scalable, reusable, and maintainable component structures.</td>
+  </tr>
+  <tr>
+    <td>📱 <strong>Responsive UI</strong></td>
+    <td>Creating mobile-first interfaces that feel smooth across different screen sizes.</td>
+  </tr>
+  <tr>
+    <td>✨ <strong>UX Polish</strong></td>
+    <td>Improving interaction quality with clear feedback, transitions, and clean visual details.</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>State Management</strong></td>
+    <td>Managing frontend state in a predictable, understandable, and practical way.</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Full-Stack Features</strong></td>
+    <td>Building real product features with Laravel, MySQL, Blade, and modern frontend tools.</td>
+  </tr>
+  <tr>
+    <td>📦 <strong>Clean Structure</strong></td>
+    <td>Organizing projects so the codebase stays readable, extendable, and easy to work with.</td>
+  </tr>
+</table>
 
 ## Contact
 
-- GitHub: https://github.com/ismailcubuk
-- LinkedIn: https://www.linkedin.com/in/ismailcubuk
-- Email: iismailcubuk@gmail.com
+<table>
+  <tr>
+    <td>GitHub</td>
+    <td><a href="https://github.com/ismailcubuk">github.com/ismailcubuk</a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/ismailcubuk">linkedin.com/in/ismailcubuk</a></td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:iismailcubuk@gmail.com">iismailcubuk@gmail.com</a></td>
+  </tr>
+</table>
