@@ -19,43 +19,10 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
 
-## Featured Projects
-
-<table>
-<tr>
-  <th>
-    <a href="https://github.com/ismailcubuk/Laravel-Blog">Laravel Blog</a>
-  </th>
-  <th>
-    <a href="https://github.com/ismailcubuk/WeatherApp">WeatherApp</a>
-  </th>
-  <th>
-    <a href="https://github.com/ismailcubuk/LeagueOfLegends-Card-Market">Card Shop</a>
-  </th>
-</tr>
-  <tr>
-    <td>
-      <a href="https://ismail.lovestoblog.com/">
-        <img src="https://ismail.lovestoblog.com/images/screenshots/preview.png" width="1200" height="720" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ismailcubuk/WeatherApp">
-        <img src="https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png" width="1200" height="720" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ismailcubuk/LeagueOfLegends-Card-Market">
-        <img src="https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png" width="1200" height="720" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://ismail.lovestoblog.com/">Live Demo</a></td>
-    <td><a href="https://ismailcubuk.github.io/WeatherApp/">Live Demo</a></td>
-    <td><a href="https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/">Live Demo</a></td>
-  </tr>
-</table>
+| Laravel Blog | WeatherApp | Card Shop |
+|---|---|---|
+| [![Laravel Blog](https://ismail.lovestoblog.com/images/screenshots/preview.png)](https://ismail.lovestoblog.com/) | [![WeatherApp](https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/WeatherApp) | [![Card Shop](https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png)](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
+| [Live Demo](https://ismail.lovestoblog.com/) | [Live Demo](https://ismailcubuk.github.io/WeatherApp/) | [Live Demo](https://ismailcubuk.github.io/LeagueOfLegends-Card-Market/) |
 
 ## Project Highlights
 
