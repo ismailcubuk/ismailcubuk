@@ -36,17 +36,17 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
   <tr>
     <td>
       <a href="https://ismail.lovestoblog.com/">
-        <img src="https://ismail.lovestoblog.com/images/screenshots/preview.png" width="300" height="180" />
+        <img src="https://ismail.lovestoblog.com/images/screenshots/preview.png" width="1200" height="720" />
       </a>
     </td>
     <td>
       <a href="https://github.com/ismailcubuk/WeatherApp">
-        <img src="https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png" width="300" height="180" />
+        <img src="https://raw.githubusercontent.com/ismailcubuk/WeatherApp/main/public/images/screenshots/preview.png" width="1200" height="720" />
       </a>
     </td>
     <td>
       <a href="https://github.com/ismailcubuk/LeagueOfLegends-Card-Market">
-        <img src="https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png" width="300" height="180" />
+        <img src="https://raw.githubusercontent.com/ismailcubuk/LeagueOfLegends-Card-Market/main/public/images/screenshots/preview.png" width="1200" height="720" />
       </a>
     </td>
   </tr>
