@@ -14,21 +14,6 @@
   <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20PHP%20%7C%20MySQL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
-</p>
-
 ## Featured Projects
 
 | [WeatherApp](https://github.com/ismailcubuk/WeatherApp) | [Laravel Blog](https://github.com/ismailcubuk/Laravel-Blog) | [Card Shop](https://github.com/ismailcubuk/LeagueOfLegends-Card-Market) |
