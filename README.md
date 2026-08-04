@@ -59,9 +59,6 @@ I enjoy turning product ideas into clean interfaces with strong mobile support, 
 ## Contact
 
 <p align="center">
-  <a href="https://github.com/ismailcubuk">
-    <img src="https://img.shields.io/badge/GitHub-https%3A%2F%2Fgithub.com%2Fismailcubuk-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/ismailcubuk">
     <img src="https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailcubuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
